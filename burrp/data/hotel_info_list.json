@@ -1,0 +1,1105 @@
+[{
+    "hotel_menu_link": "http://burrp.com/bangalore/the-square-food-outside-the-box-novotel-bengaluru-techpark-bellandur-listing/menu/354407",
+    "rating": [{
+        "total_rating": 4.2,
+        "total_ratings_given": 68
+    }],
+    "hotel_reviews_link": "http://burrp.com/bangalore/the-square-food-outside-the-box-novotel-bengaluru-techpark-bellandur-listing/reviews/354407",
+    "hotel_id": 354407,
+    "hotel_info": [{
+        "hotel_address": "ground floor, sarjapur outer ring road, bellandur, bangalore",
+        "hotel_title": "the square-food outside the box, novotel bengaluru techpark,bellandur",
+        "cuisines": ["Continental", "Italian", "Indian", "Japanese", "Oriental"],
+        "hotel_link": "http://burrp.com/bangalore/the-square-food-outside-the-box-novotel-bengaluru-techpark-bellandur-listing/354407",
+        "meal_for_2": 3000.0
+    }],
+    "hotel_url_title": "the-square-food-outside-the-box-novotel-bengaluru-techpark-bellandur-listing"
+}, {
+    "hotel_menu_link": "http://burrp.com/bangalore/the-only-place-museum-road-listing/menu/1861",
+    "rating": [{
+        "total_rating": 3.8,
+        "total_ratings_given": 96
+    }],
+    "hotel_reviews_link": "http://burrp.com/bangalore/the-only-place-museum-road-listing/reviews/1861",
+    "hotel_id": 1861,
+    "hotel_info": [{
+        "hotel_address": "no. 13, museum road, bangalore",
+        "hotel_title": "the only place,museum road",
+        "cuisines": ["Continental", "Italian"],
+        "hotel_link": "http://burrp.com/bangalore/the-only-place-museum-road-listing/1861",
+        "meal_for_2": 800.0
+    }],
+    "hotel_url_title": "the-only-place-museum-road-listing"
+}, {
+    "hotel_menu_link": "http://burrp.com/bangalore/sultans-of-spice-blupetal-a-business-hotel-koramangala-listing/menu/49940",
+    "rating": [{
+        "total_rating": 3.6,
+        "total_ratings_given": 70
+    }],
+    "hotel_reviews_link": "http://burrp.com/bangalore/sultans-of-spice-blupetal-a-business-hotel-koramangala-listing/reviews/49940",
+    "hotel_id": 49940,
+    "hotel_info": [{
+        "hotel_address": "no. 60, jothi nivas college road, 5th block, koramangala, bangalore",
+        "hotel_title": "sultans of spice,  blupetal - a business hotel,koramangala",
+        "cuisines": ["Indian", "North Indian", "North West Frontier", "Punjabi"],
+        "hotel_link": "http://burrp.com/bangalore/sultans-of-spice-blupetal-a-business-hotel-koramangala-listing/49940",
+        "meal_for_2": 1500.0
+    }],
+    "hotel_url_title": "sultans-of-spice-blupetal-a-business-hotel-koramangala-listing"
+}, {
+    "hotel_menu_link": "http://burrp.com/bangalore/toscano-vittal-mallya-road-listing/menu/9022",
+    "rating": [{
+        "total_rating": 3.4,
+        "total_ratings_given": 80
+    }],
+    "hotel_reviews_link": "http://burrp.com/bangalore/toscano-vittal-mallya-road-listing/reviews/9022",
+    "hotel_id": 9022,
+    "hotel_info": [{
+        "hotel_address": "the collection, 2nd floor,  vittal mallya road, bangalore",
+        "hotel_title": "toscano,vittal mallya road",
+        "cuisines": ["Italian"],
+        "hotel_link": "http://burrp.com/bangalore/toscano-vittal-mallya-road-listing/9022",
+        "meal_for_2": 1500.0
+    }],
+    "hotel_url_title": "toscano-vittal-mallya-road-listing"
+}, {
+    "hotel_menu_link": "http://burrp.com/bangalore/boca-grande-koramangala-listing/menu/8686",
+    "rating": [{
+        "total_rating": 3.2,
+        "total_ratings_given": 89
+    }],
+    "hotel_reviews_link": "http://burrp.com/bangalore/boca-grande-koramangala-listing/reviews/8686",
+    "hotel_id": 8686,
+    "hotel_info": [{
+        "hotel_address": "no. 606, 8th block, near bethany high school, koramangala, bangalore",
+        "hotel_title": "boca grande,koramangala",
+        "cuisines": ["American", "Continental", "Fastfood", "Italian", "Ice-cream", "Snacks"],
+        "hotel_link": "http://burrp.com/bangalore/boca-grande-koramangala-listing/8686",
+        "meal_for_2": 600.0
+    }],
+    "hotel_url_title": "boca-grande-koramangala-listing"
+}, {
+    "hotel_menu_link": "http://burrp.com/bangalore/ohris-serengeti-madiwala-listing/menu/8448",
+    "rating": [{
+        "total_rating": 3.1,
+        "total_ratings_given": 55
+    }],
+    "hotel_reviews_link": "http://burrp.com/bangalore/ohris-serengeti-madiwala-listing/reviews/8448",
+    "hotel_id": 8448,
+    "hotel_info": [{
+        "hotel_address": "3rd floor,total mall,hosur road,madiwala,bangalore",
+        "hotel_title": "ohri's serengeti,madiwala",
+        "cuisines": ["Chinese", "Indian"],
+        "hotel_link": "http://burrp.com/bangalore/ohris-serengeti-madiwala-listing/8448",
+        "meal_for_2": 800.0
+    }],
+    "hotel_url_title": "ohris-serengeti-madiwala-listing"
+}, {
+    "hotel_menu_link": "http://burrp.com/bangalore/elements-eatery-jayamahal-road-listing/menu/1737",
+    "rating": [{
+        "total_rating": 4.0,
+        "total_ratings_given": 23
+    }],
+    "hotel_reviews_link": "http://burrp.com/bangalore/elements-eatery-jayamahal-road-listing/reviews/1737",
+    "hotel_id": 1737,
+    "hotel_info": [{
+        "hotel_address": "197, nandidurg road, jayamahal extn, jayamahal road, bangalore",
+        "hotel_title": "elements eatery,jayamahal road",
+        "cuisines": ["Continental"],
+        "hotel_link": "http://burrp.com/bangalore/elements-eatery-jayamahal-road-listing/1737",
+        "meal_for_2": 1000.0
+    }],
+    "hotel_url_title": "elements-eatery-jayamahal-road-listing"
+}, {
+    "hotel_menu_link": "http://burrp.com/bangalore/luo-han-hsr-layout-listing/menu/2623",
+    "rating": [{
+        "total_rating": 3.3,
+        "total_ratings_given": 33
+    }],
+    "hotel_reviews_link": "http://burrp.com/bangalore/luo-han-hsr-layout-listing/reviews/2623",
+    "hotel_id": 2623,
+    "hotel_info": [{
+        "hotel_address": "666, 27th main road, 13th cross, sector 1, hsr layout, bangalore",
+        "hotel_title": "luo han,hsr layout",
+        "cuisines": ["Chinese"],
+        "hotel_link": "http://burrp.com/bangalore/luo-han-hsr-layout-listing/2623",
+        "meal_for_2": 300.0
+    }],
+    "hotel_url_title": "luo-han-hsr-layout-listing"
+}, {
+    "hotel_menu_link": "http://burrp.com/bangalore/adupadi-indiranagar-listing/menu/356377",
+    "rating": [{
+        "total_rating": 3.4,
+        "total_ratings_given": 27
+    }],
+    "hotel_reviews_link": "http://burrp.com/bangalore/adupadi-indiranagar-listing/reviews/356377",
+    "hotel_id": 356377,
+    "hotel_info": [{
+        "hotel_address": "201, double road,  indiranagar,bangalore",
+        "hotel_title": "adupadi,indiranagar",
+        "cuisines": ["Chettinad", "Indian", "South Indian"],
+        "hotel_link": "http://burrp.com/bangalore/adupadi-indiranagar-listing/356377",
+        "meal_for_2": 600.0
+    }],
+    "hotel_url_title": "adupadi-indiranagar-listing"
+}, {
+    "hotel_menu_link": "http://burrp.com/bangalore/rajdhani-thali-restaurant-whitefield-listing/menu/57241",
+    "rating": [{
+        "total_rating": 4.0,
+        "total_ratings_given": 18
+    }],
+    "hotel_reviews_link": "http://burrp.com/bangalore/rajdhani-thali-restaurant-whitefield-listing/reviews/57241",
+    "hotel_id": 57241,
+    "hotel_info": [{
+        "hotel_address": "3rd floor, transit second,the forum value mall,no. 62, whitefield main road,whitefield, bangalore",
+        "hotel_title": "rajdhani thali restaurant,whitefield",
+        "cuisines": ["Gujarati", "Rajasthani"],
+        "hotel_link": "http://burrp.com/bangalore/rajdhani-thali-restaurant-whitefield-listing/57241",
+        "meal_for_2": 900.0
+    }],
+    "hotel_url_title": "rajdhani-thali-restaurant-whitefield-listing"
+}, {
+    "hotel_menu_link": "http://burrp.com/bangalore/the-tasty-tangles-vittal-mallya-road-listing/menu/13064",
+    "rating": [{
+        "total_rating": 2.9,
+        "total_ratings_given": 33
+    }],
+    "hotel_reviews_link": "http://burrp.com/bangalore/the-tasty-tangles-vittal-mallya-road-listing/reviews/13064",
+    "hotel_id": 13064,
+    "hotel_info": [{
+        "hotel_address": "the collection, 2nd floor, ub city, 24, vittal mallya road, bangalore",
+        "hotel_title": "the tasty tangles,vittal mallya road",
+        "cuisines": ["Chinese", "Indonesian", "Malaysian", "Oriental", "South East Asian", "Thai"],
+        "hotel_link": "http://burrp.com/bangalore/the-tasty-tangles-vittal-mallya-road-listing/13064",
+        "meal_for_2": 800.0
+    }],
+    "hotel_url_title": "the-tasty-tangles-vittal-mallya-road-listing"
+}, {
+    "hotel_menu_link": "http://burrp.com/bangalore/indijoe-old-madras-road-listing/menu/9215",
+    "rating": [{
+        "total_rating": 2.8,
+        "total_ratings_given": 33
+    }],
+    "hotel_reviews_link": "http://burrp.com/bangalore/indijoe-old-madras-road-listing/reviews/9215",
+    "hotel_id": 9215,
+    "hotel_info": [{
+        "hotel_address": "rmz infinity mall, ground floor, 3, bannaganahalli, old madras road, bangalore",
+        "hotel_title": "indijoe,old madras road",
+        "cuisines": ["Multi-cuisine"],
+        "hotel_link": "http://burrp.com/bangalore/indijoe-old-madras-road-listing/9215",
+        "meal_for_2": 1500.0
+    }],
+    "hotel_url_title": "indijoe-old-madras-road-listing"
+}, {
+    "hotel_menu_link": "http://burrp.com/bangalore/spaghetti-kitchen-indiranagar-listing/menu/152469",
+    "rating": [{
+        "total_rating": 2.9,
+        "total_ratings_given": 29
+    }],
+    "hotel_reviews_link": "http://burrp.com/bangalore/spaghetti-kitchen-indiranagar-listing/reviews/152469",
+    "hotel_id": 152469,
+    "hotel_info": [{
+        "hotel_address": "no.2006, 1st floor, hal 2nd stage, 100 feet road, indiranagar, bangalore",
+        "hotel_title": "spaghetti kitchen,indiranagar",
+        "cuisines": ["Italian"],
+        "hotel_link": "http://burrp.com/bangalore/spaghetti-kitchen-indiranagar-listing/152469",
+        "meal_for_2": 1500.0
+    }],
+    "hotel_url_title": "spaghetti-kitchen-indiranagar-listing"
+}, {
+    "hotel_menu_link": "http://burrp.com/bangalore/masala-klub-the-taj-west-end-race-course-road-listing/menu/8499",
+    "rating": [{
+        "total_rating": 4.1,
+        "total_ratings_given": 12
+    }],
+    "hotel_reviews_link": "http://burrp.com/bangalore/masala-klub-the-taj-west-end-race-course-road-listing/reviews/8499",
+    "hotel_id": 8499,
+    "hotel_info": [{
+        "hotel_address": "  race course road, bangalore",
+        "hotel_title": "masala klub, the taj west end,race course road",
+        "cuisines": ["Indian"],
+        "hotel_link": "http://burrp.com/bangalore/masala-klub-the-taj-west-end-race-course-road-listing/8499",
+        "meal_for_2": 4500.0
+    }],
+    "hotel_url_title": "masala-klub-the-taj-west-end-race-course-road-listing"
+}, {
+    "hotel_menu_link": "http://burrp.com/bangalore/mahesh-lunch-home-residency-road-listing/menu/364366",
+    "rating": [{
+        "total_rating": 3.9,
+        "total_ratings_given": 12
+    }],
+    "hotel_reviews_link": "http://burrp.com/bangalore/mahesh-lunch-home-residency-road-listing/reviews/364366",
+    "hotel_id": 364366,
+    "hotel_info": [{
+        "hotel_address": "cears plaza,  residency road, bangalore",
+        "hotel_title": "mahesh lunch home,residency road",
+        "cuisines": ["Multi-cuisine"],
+        "hotel_link": "http://burrp.com/bangalore/mahesh-lunch-home-residency-road-listing/364366",
+        "meal_for_2": 1800.0
+    }],
+    "hotel_url_title": "mahesh-lunch-home-residency-road-listing"
+}, {
+    "hotel_menu_link": "http://burrp.com/bangalore/truffles-ice-spice-new-bel-road-listing/menu/12339",
+    "rating": [{
+        "total_rating": 3.0,
+        "total_ratings_given": 20
+    }],
+    "hotel_reviews_link": "http://burrp.com/bangalore/truffles-ice-spice-new-bel-road-listing/reviews/12339",
+    "hotel_id": 12339,
+    "hotel_info": [{
+        "hotel_address": "84, 80 feet road, 2nd stage, rmv extension, new bel road, bangalore",
+        "hotel_title": "truffles ice & spice,new bel road",
+        "cuisines": ["Continental", "Indian", "Chinese", "Thai"],
+        "hotel_link": "http://burrp.com/bangalore/truffles-ice-spice-new-bel-road-listing/12339",
+        "meal_for_2": 400.0
+    }],
+    "hotel_url_title": "truffles-ice-spice-new-bel-road-listing"
+}, {
+    "hotel_menu_link": "http://burrp.com/bangalore/anjappar-chettinad-restaurant-koramangala-listing/menu/8380",
+    "rating": [{
+        "total_rating": 2.6,
+        "total_ratings_given": 27
+    }],
+    "hotel_reviews_link": "http://burrp.com/bangalore/anjappar-chettinad-restaurant-koramangala-listing/reviews/8380",
+    "hotel_id": 8380,
+    "hotel_info": [{
+        "hotel_address": "4, 4th b block, 17 main, 100 feet road, koramangala, bangalore",
+        "hotel_title": "anjappar chettinad restaurant,koramangala",
+        "cuisines": ["Chettinad"],
+        "hotel_link": "http://burrp.com/bangalore/anjappar-chettinad-restaurant-koramangala-listing/8380",
+        "meal_for_2": 500.0
+    }],
+    "hotel_url_title": "anjappar-chettinad-restaurant-koramangala-listing"
+}, {
+    "hotel_menu_link": "http://burrp.com/bangalore/princess-hotel-pai-comforts-jp-nagar-listing/menu/2615",
+    "rating": [{
+        "total_rating": 3.7,
+        "total_ratings_given": 11
+    }],
+    "hotel_reviews_link": "http://burrp.com/bangalore/princess-hotel-pai-comforts-jp-nagar-listing/reviews/2615",
+    "hotel_id": 2615,
+    "hotel_info": [{
+        "hotel_address": "hotel pai comforts, ground floor, jp nagar, bangalore",
+        "hotel_title": "princess, hotel pai comforts,jp nagar",
+        "cuisines": ["Indian", "Tandoori", "Chinese"],
+        "hotel_link": "http://burrp.com/bangalore/princess-hotel-pai-comforts-jp-nagar-listing/2615",
+        "meal_for_2": 600.0
+    }],
+    "hotel_url_title": "princess-hotel-pai-comforts-jp-nagar-listing"
+}, {
+    "hotel_menu_link": "http://burrp.com/bangalore/mast-kalandar-new-bel-road-listing/menu/13339",
+    "rating": [{
+        "total_rating": 3.6,
+        "total_ratings_given": 11
+    }],
+    "hotel_reviews_link": "http://burrp.com/bangalore/mast-kalandar-new-bel-road-listing/reviews/13339",
+    "hotel_id": 13339,
+    "hotel_info": [{
+        "hotel_address": "7a, 1st floor, 2nd cross, chickamarenahalli, new bel road, bangalore",
+        "hotel_title": "mast kalandar,new bel road",
+        "cuisines": ["Punjabi"],
+        "hotel_link": "http://burrp.com/bangalore/mast-kalandar-new-bel-road-listing/13339",
+        "meal_for_2": null
+    }],
+    "hotel_url_title": "mast-kalandar-new-bel-road-listing"
+}, {
+    "hotel_menu_link": "http://burrp.com/bangalore/punjabi-rasoi-rt-nagar-listing/menu/8760",
+    "rating": [{
+        "total_rating": 3.1,
+        "total_ratings_given": 14
+    }],
+    "hotel_reviews_link": "http://burrp.com/bangalore/punjabi-rasoi-rt-nagar-listing/reviews/8760",
+    "hotel_id": 8760,
+    "hotel_info": [{
+        "hotel_address": "6, 3rd floor, 80 feet road, hmt layout, rt nagar\u00a0main road, rt nagar, bangalore",
+        "hotel_title": "punjabi rasoi,rt nagar",
+        "cuisines": ["Punjabi"],
+        "hotel_link": "http://burrp.com/bangalore/punjabi-rasoi-rt-nagar-listing/8760",
+        "meal_for_2": 500.0
+    }],
+    "hotel_url_title": "punjabi-rasoi-rt-nagar-listing"
+}, {
+    "hotel_menu_link": "http://burrp.com/bangalore/mast-kalandar-btm-layout-2nd-stage-listing/menu/7227",
+    "rating": [{
+        "total_rating": 2.8,
+        "total_ratings_given": 18
+    }],
+    "hotel_reviews_link": "http://burrp.com/bangalore/mast-kalandar-btm-layout-2nd-stage-listing/reviews/7227",
+    "hotel_id": 7227,
+    "hotel_info": [{
+        "hotel_address": "1195, 1st floor, 16th main, 5th c cross,  btm layout 2nd stage, bangalore",
+        "hotel_title": "mast kalandar,btm layout 2nd stage",
+        "cuisines": ["North Indian"],
+        "hotel_link": "http://burrp.com/bangalore/mast-kalandar-btm-layout-2nd-stage-listing/7227",
+        "meal_for_2": null
+    }],
+    "hotel_url_title": "mast-kalandar-btm-layout-2nd-stage-listing"
+}, {
+    "hotel_menu_link": "http://burrp.com/bangalore/monsoon-the-park-mg-road-listing/menu/1836",
+    "rating": [{
+        "total_rating": 3.4,
+        "total_ratings_given": 11
+    }],
+    "hotel_reviews_link": "http://burrp.com/bangalore/monsoon-the-park-mg-road-listing/reviews/1836",
+    "hotel_id": 1836,
+    "hotel_info": [{
+        "hotel_address": "lobby level, located in the park, mg road, bangalore",
+        "hotel_title": "monsoon, the park,mg road",
+        "cuisines": ["Multi-cuisine"],
+        "hotel_link": "http://burrp.com/bangalore/monsoon-the-park-mg-road-listing/1836",
+        "meal_for_2": 2400.0
+    }],
+    "hotel_url_title": "monsoon-the-park-mg-road-listing"
+}, {
+    "hotel_menu_link": "http://burrp.com/bangalore/hoppipola-indiranagar-listing/menu/381017",
+    "rating": [{
+        "total_rating": 3.9,
+        "total_ratings_given": 8
+    }],
+    "hotel_reviews_link": "http://burrp.com/bangalore/hoppipola-indiranagar-listing/reviews/381017",
+    "hotel_id": 381017,
+    "hotel_info": [{
+        "hotel_address": "terrace, mainland china building - 4032, 100 feet road, hal 2nd stage, indiranagar,bangalore",
+        "hotel_title": "hoppipola,indiranagar",
+        "cuisines": ["Continental", "Mediterranean"],
+        "hotel_link": "http://burrp.com/bangalore/hoppipola-indiranagar-listing/381017",
+        "meal_for_2": 1100.0
+    }],
+    "hotel_url_title": "hoppipola-indiranagar-listing"
+}, {
+    "hotel_menu_link": "http://burrp.com/bangalore/melange-hotel-park-plaza-marathahalli-listing/menu/225155",
+    "rating": [{
+        "total_rating": 3.1,
+        "total_ratings_given": 12
+    }],
+    "hotel_reviews_link": "http://burrp.com/bangalore/melange-hotel-park-plaza-marathahalli-listing/reviews/225155",
+    "hotel_id": 225155,
+    "hotel_info": [{
+        "hotel_address": "1st floor,  marathahalli, bangalore",
+        "hotel_title": "melange, hotel park plaza,marathahalli",
+        "cuisines": ["Multi-cuisine"],
+        "hotel_link": "http://burrp.com/bangalore/melange-hotel-park-plaza-marathahalli-listing/225155",
+        "meal_for_2": 2000.0
+    }],
+    "hotel_url_title": "melange-hotel-park-plaza-marathahalli-listing"
+}, {
+    "hotel_menu_link": "http://burrp.com/bangalore/the-humming-tree-music-venue-bar-indiranagar-listing/menu/376247",
+    "rating": [{
+        "total_rating": 3.7,
+        "total_ratings_given": 8
+    }],
+    "hotel_reviews_link": "http://burrp.com/bangalore/the-humming-tree-music-venue-bar-indiranagar-listing/reviews/376247",
+    "hotel_id": 376247,
+    "hotel_info": [{
+        "hotel_address": "3rd floor & roof top, 12th main, indiranagar, bangalore",
+        "hotel_title": "the humming tree - music venue & bar,indiranagar",
+        "cuisines": ["European", "Continental", "Mexican"],
+        "hotel_link": "http://burrp.com/bangalore/the-humming-tree-music-venue-bar-indiranagar-listing/376247",
+        "meal_for_2": 800.0
+    }],
+    "hotel_url_title": "the-humming-tree-music-venue-bar-indiranagar-listing"
+}, {
+    "hotel_menu_link": "http://burrp.com/bangalore/dakhani-degh-jayanagar-listing/menu/12687",
+    "rating": [{
+        "total_rating": 3.2,
+        "total_ratings_given": 10
+    }],
+    "hotel_reviews_link": "http://burrp.com/bangalore/dakhani-degh-jayanagar-listing/reviews/12687",
+    "hotel_id": 12687,
+    "hotel_info": [{
+        "hotel_address": "29/1, 30th cross, tilak nagar, 4th t block, jayanagar, bangalore",
+        "hotel_title": "dakhani degh,jayanagar",
+        "cuisines": ["Hyderabadi"],
+        "hotel_link": "http://burrp.com/bangalore/dakhani-degh-jayanagar-listing/12687",
+        "meal_for_2": 450.0
+    }],
+    "hotel_url_title": "dakhani-degh-jayanagar-listing"
+}, {
+    "hotel_menu_link": "http://burrp.com/bangalore/mango-tree-restaurant-koramangala-listing/menu/363938",
+    "rating": [{
+        "total_rating": 4.6,
+        "total_ratings_given": 5
+    }],
+    "hotel_reviews_link": "http://burrp.com/bangalore/mango-tree-restaurant-koramangala-listing/reviews/363938",
+    "hotel_id": 363938,
+    "hotel_info": [{
+        "hotel_address": "4/3, bhuvanappa layout , koramangala, bangalore",
+        "hotel_title": "mango tree restaurant,koramangala",
+        "cuisines": ["Tandoori", "Chinese", "Indian"],
+        "hotel_link": "http://burrp.com/bangalore/mango-tree-restaurant-koramangala-listing/363938",
+        "meal_for_2": 1000.0
+    }],
+    "hotel_url_title": "mango-tree-restaurant-koramangala-listing"
+}, {
+    "hotel_menu_link": "http://burrp.com/bangalore/udupi-sri-krishna-bhavan-balepete-listing/menu/2405",
+    "rating": [{
+        "total_rating": 4.0,
+        "total_ratings_given": 6
+    }],
+    "hotel_reviews_link": "http://burrp.com/bangalore/udupi-sri-krishna-bhavan-balepete-listing/reviews/2405",
+    "hotel_id": 2405,
+    "hotel_info": [{
+        "hotel_address": "123, janardhana buildings, balepete, bangalore",
+        "hotel_title": "udupi sri krishna bhavan,balepete",
+        "cuisines": ["South Indian"],
+        "hotel_link": "http://burrp.com/bangalore/udupi-sri-krishna-bhavan-balepete-listing/2405",
+        "meal_for_2": 150.0
+    }],
+    "hotel_url_title": "udupi-sri-krishna-bhavan-balepete-listing"
+}, {
+    "hotel_menu_link": "http://burrp.com/bangalore/paradigm-shift-vegan-cafe-koramangala-listing/menu/393954",
+    "rating": [{
+        "total_rating": 3.1,
+        "total_ratings_given": 9
+    }],
+    "hotel_reviews_link": "http://burrp.com/bangalore/paradigm-shift-vegan-cafe-koramangala-listing/reviews/393954",
+    "hotel_id": 393954,
+    "hotel_info": [{
+        "hotel_address": "shop no 8, terrace & 3rd floor, 4th block, sony world signal, 80 feet  road, koramangala, bangalore",
+        "hotel_title": "paradigm shift vegan cafe,koramangala",
+        "cuisines": ["Oriental"],
+        "hotel_link": "http://burrp.com/bangalore/paradigm-shift-vegan-cafe-koramangala-listing/393954",
+        "meal_for_2": 800.0
+    }],
+    "hotel_url_title": "paradigm-shift-vegan-cafe-koramangala-listing"
+}, {
+    "hotel_menu_link": "http://burrp.com/bangalore/bon-south-koramangala-listing/menu/377518",
+    "rating": [{
+        "total_rating": 3.8,
+        "total_ratings_given": 6
+    }],
+    "hotel_reviews_link": "http://burrp.com/bangalore/bon-south-koramangala-listing/reviews/377518",
+    "hotel_id": 377518,
+    "hotel_info": [{
+        "hotel_address": "130, 1st a cross, 5th block,  koramangala, bangalore",
+        "hotel_title": "bon south,koramangala",
+        "cuisines": ["South Indian"],
+        "hotel_link": "http://burrp.com/bangalore/bon-south-koramangala-listing/377518",
+        "meal_for_2": 1200.0
+    }],
+    "hotel_url_title": "bon-south-koramangala-listing"
+}, {
+    "hotel_menu_link": "http://burrp.com/bangalore/the-tower-kitchen-vittal-mallya-road-listing/menu/362939",
+    "rating": [{
+        "total_rating": 4.8,
+        "total_ratings_given": 4
+    }],
+    "hotel_reviews_link": "http://burrp.com/bangalore/the-tower-kitchen-vittal-mallya-road-listing/reviews/362939",
+    "hotel_id": 362939,
+    "hotel_info": [{
+        "hotel_address": "16th floor, uber level, ub city, 24, vittal mallya road, bangalore",
+        "hotel_title": "the tower kitchen,vittal mallya road",
+        "cuisines": ["European"],
+        "hotel_link": "http://burrp.com/bangalore/the-tower-kitchen-vittal-mallya-road-listing/362939",
+        "meal_for_2": 2000.0
+    }],
+    "hotel_url_title": "the-tower-kitchen-vittal-mallya-road-listing"
+}, {
+    "hotel_menu_link": "http://burrp.com/bangalore/hotel-barbees-dickenson-road-listing/menu/1746",
+    "rating": [{
+        "total_rating": 3.7,
+        "total_ratings_given": 6
+    }],
+    "hotel_reviews_link": "http://burrp.com/bangalore/hotel-barbees-dickenson-road-listing/reviews/1746",
+    "hotel_id": 1746,
+    "hotel_info": [{
+        "hotel_address": "12/1, dickenson road, near commerical street, bangalore",
+        "hotel_title": "hotel barbees,dickenson road",
+        "cuisines": ["Indian", "Tandoori"],
+        "hotel_link": "http://burrp.com/bangalore/hotel-barbees-dickenson-road-listing/1746",
+        "meal_for_2": 400.0
+    }],
+    "hotel_url_title": "hotel-barbees-dickenson-road-listing"
+}, {
+    "hotel_menu_link": "http://burrp.com/bangalore/azure-vivanta-by-taj-yeshwanthpur-listing/menu/224217",
+    "rating": [{
+        "total_rating": 3.3,
+        "total_ratings_given": 7
+    }],
+    "hotel_reviews_link": "http://burrp.com/bangalore/azure-vivanta-by-taj-yeshwanthpur-listing/reviews/224217",
+    "hotel_id": 224217,
+    "hotel_info": [{
+        "hotel_address": "  yeshwanthpur, bangalore",
+        "hotel_title": "azure, vivanta by taj,yeshwanthpur",
+        "cuisines": ["Greek", "Lebanese", "Mediterranean", "Moroccan", "Italian"],
+        "hotel_link": "http://burrp.com/bangalore/azure-vivanta-by-taj-yeshwanthpur-listing/224217",
+        "meal_for_2": 2300.0
+    }],
+    "hotel_url_title": "azure-vivanta-by-taj-yeshwanthpur-listing"
+}, {
+    "hotel_menu_link": "http://burrp.com/bangalore/mairaj-restaurant-tilak-nagar-listing/menu/59273",
+    "rating": [{
+        "total_rating": 4.4,
+        "total_ratings_given": 4
+    }],
+    "hotel_reviews_link": "http://burrp.com/bangalore/mairaj-restaurant-tilak-nagar-listing/reviews/59273",
+    "hotel_id": 59273,
+    "hotel_info": [{
+        "hotel_address": "no.24, mairaj restaurant, near swagath garuda mall, tilak nagar, bangalore",
+        "hotel_title": "mairaj restaurant,tilak nagar",
+        "cuisines": ["Hyderabadi", "Biryani"],
+        "hotel_link": "http://burrp.com/bangalore/mairaj-restaurant-tilak-nagar-listing/59273",
+        "meal_for_2": null
+    }],
+    "hotel_url_title": "mairaj-restaurant-tilak-nagar-listing"
+}, {
+    "hotel_menu_link": "http://burrp.com/bangalore/momoz-chinese-delicacy-kammanahalli-main-road-listing/menu/52693",
+    "rating": [{
+        "total_rating": 4.3,
+        "total_ratings_given": 4
+    }],
+    "hotel_reviews_link": "http://burrp.com/bangalore/momoz-chinese-delicacy-kammanahalli-main-road-listing/reviews/52693",
+    "hotel_id": 52693,
+    "hotel_info": [{
+        "hotel_address": "shop no. 54, 60ft nehru road, , yadave layout, aravind nagar, , kammanahalli main road, bangalore",
+        "hotel_title": "momoz chinese delicacy,kammanahalli main road",
+        "cuisines": ["Chinese"],
+        "hotel_link": "http://burrp.com/bangalore/momoz-chinese-delicacy-kammanahalli-main-road-listing/52693",
+        "meal_for_2": null
+    }],
+    "hotel_url_title": "momoz-chinese-delicacy-kammanahalli-main-road-listing"
+}, {
+    "hotel_menu_link": "http://burrp.com/bangalore/the-biere-club-whitefield-listing/menu/393498",
+    "rating": [{
+        "total_rating": 3.0,
+        "total_ratings_given": 7
+    }],
+    "hotel_reviews_link": "http://burrp.com/bangalore/the-biere-club-whitefield-listing/reviews/393498",
+    "hotel_id": 393498,
+    "hotel_info": [{
+        "hotel_address": "153 biere street, varthur main road, behind forum value mall, whitefield, bangalore",
+        "hotel_title": "the biere club,whitefield",
+        "cuisines": ["Mediterranean"],
+        "hotel_link": "http://burrp.com/bangalore/the-biere-club-whitefield-listing/393498",
+        "meal_for_2": 2000.0
+    }],
+    "hotel_url_title": "the-biere-club-whitefield-listing"
+}, {
+    "hotel_menu_link": "http://burrp.com/bangalore/annakuta-restaurant-rajajinagar-listing/menu/2820",
+    "rating": [{
+        "total_rating": 4.8,
+        "total_ratings_given": 3
+    }],
+    "hotel_reviews_link": "http://burrp.com/bangalore/annakuta-restaurant-rajajinagar-listing/reviews/2820",
+    "hotel_id": 2820,
+    "hotel_info": [{
+        "hotel_address": "hare krishna temple, west of chord road, rajajinagar, bangalore",
+        "hotel_title": "annakuta restaurant,rajajinagar",
+        "cuisines": ["Indian", "Indian coastal", "Karnataka", "Malyalee", "North Indian", "South Indian", "Juice"],
+        "hotel_link": "http://burrp.com/bangalore/annakuta-restaurant-rajajinagar-listing/2820",
+        "meal_for_2": 400.0
+    }],
+    "hotel_url_title": "annakuta-restaurant-rajajinagar-listing"
+}, {
+    "hotel_menu_link": "http://burrp.com/bangalore/eshanya-jayanagar-listing/menu/358198",
+    "rating": [{
+        "total_rating": 2.5,
+        "total_ratings_given": 9
+    }],
+    "hotel_reviews_link": "http://burrp.com/bangalore/eshanya-jayanagar-listing/reviews/358198",
+    "hotel_id": 358198,
+    "hotel_info": [{
+        "hotel_address": "no. 33, 26th main, 36th cross, 4th t block, jayanagar, bangalore",
+        "hotel_title": "eshanya,jayanagar",
+        "cuisines": ["North Indian", "Chinese"],
+        "hotel_link": "http://burrp.com/bangalore/eshanya-jayanagar-listing/358198",
+        "meal_for_2": 500.0
+    }],
+    "hotel_url_title": "eshanya-jayanagar-listing"
+}, {
+    "hotel_menu_link": "http://burrp.com/bangalore/nahars-sidewalk-cafe-hotel-nahar-heritage-st-marks-road-listing/menu/358601",
+    "rating": [{
+        "total_rating": 3.8,
+        "total_ratings_given": 4
+    }],
+    "hotel_reviews_link": "http://burrp.com/bangalore/nahars-sidewalk-cafe-hotel-nahar-heritage-st-marks-road-listing/reviews/358601",
+    "hotel_id": 358601,
+    "hotel_info": [{
+        "hotel_address": "ground floor,  st. marks road, bangalore",
+        "hotel_title": "nahar's sidewalk cafe, hotel nahar heritage,st. marks road",
+        "cuisines": ["Continental", "European", "Mexican", "Snacks", "Tea and Coffee"],
+        "hotel_link": "http://burrp.com/bangalore/nahars-sidewalk-cafe-hotel-nahar-heritage-st-marks-road-listing/358601",
+        "meal_for_2": 400.0
+    }],
+    "hotel_url_title": "nahars-sidewalk-cafe-hotel-nahar-heritage-st-marks-road-listing"
+}, {
+    "hotel_menu_link": "http://burrp.com/bangalore/punjabi-food-corner-indiranagar-listing/menu/357079",
+    "rating": [{
+        "total_rating": 3.8,
+        "total_ratings_given": 4
+    }],
+    "hotel_reviews_link": "http://burrp.com/bangalore/punjabi-food-corner-indiranagar-listing/reviews/357079",
+    "hotel_id": 357079,
+    "hotel_info": [{
+        "hotel_address": "no 23, 1st main, 2nd cross, indiranagar, bangalore",
+        "hotel_title": "punjabi food corner,indiranagar",
+        "cuisines": ["Punjabi"],
+        "hotel_link": "http://burrp.com/bangalore/punjabi-food-corner-indiranagar-listing/357079",
+        "meal_for_2": 300.0
+    }],
+    "hotel_url_title": "punjabi-food-corner-indiranagar-listing"
+}, {
+    "hotel_menu_link": "http://burrp.com/bangalore/kebab-magic-jayanagar-listing/menu/2398",
+    "rating": [{
+        "total_rating": 3.2,
+        "total_ratings_given": 5
+    }],
+    "hotel_reviews_link": "http://burrp.com/bangalore/kebab-magic-jayanagar-listing/reviews/2398",
+    "hotel_id": 2398,
+    "hotel_info": [{
+        "hotel_address": "9th block, east end circle,btm layout, jayanagar, bangalore",
+        "hotel_title": "kebab magic,jayanagar",
+        "cuisines": ["Arabian", "North Indian"],
+        "hotel_link": "http://burrp.com/bangalore/kebab-magic-jayanagar-listing/2398",
+        "meal_for_2": 250.0
+    }],
+    "hotel_url_title": "kebab-magic-jayanagar-listing"
+}, {
+    "hotel_menu_link": "http://burrp.com/bangalore/1947-fine-indian-cuisine-rajarajeshwari-nagar-listing/menu/52481",
+    "rating": [{
+        "total_rating": 4.2,
+        "total_ratings_given": 3
+    }],
+    "hotel_reviews_link": "http://burrp.com/bangalore/1947-fine-indian-cuisine-rajarajeshwari-nagar-listing/reviews/52481",
+    "hotel_id": 52481,
+    "hotel_info": [{
+        "hotel_address": "292/a, 12th cross, ideal homes township, rajarajeshwari nagar, bangalore",
+        "hotel_title": "1947 - fine indian cuisine,rajarajeshwari nagar",
+        "cuisines": ["North Indian", "Chinese"],
+        "hotel_link": "http://burrp.com/bangalore/1947-fine-indian-cuisine-rajarajeshwari-nagar-listing/52481",
+        "meal_for_2": 500.0
+    }],
+    "hotel_url_title": "1947-fine-indian-cuisine-rajarajeshwari-nagar-listing"
+}, {
+    "hotel_menu_link": "http://burrp.com/bangalore/pizzeria-la-casa-sarjapur-road-listing/menu/153401",
+    "rating": [{
+        "total_rating": 3.5,
+        "total_ratings_given": 4
+    }],
+    "hotel_reviews_link": "http://burrp.com/bangalore/pizzeria-la-casa-sarjapur-road-listing/reviews/153401",
+    "hotel_id": 153401,
+    "hotel_info": [{
+        "hotel_address": "kasavanahalli, carmearam, sarjapura road, bangalore",
+        "hotel_title": "pizzeria la casa,sarjapur road",
+        "cuisines": ["Italian"],
+        "hotel_link": "http://burrp.com/bangalore/pizzeria-la-casa-sarjapur-road-listing/153401",
+        "meal_for_2": 500.0
+    }],
+    "hotel_url_title": "pizzeria-la-casa-sarjapur-road-listing"
+}, {
+    "hotel_menu_link": "http://burrp.com/bangalore/beijing-bites-richmond-road-listing/menu/2290",
+    "rating": [{
+        "total_rating": 4.0,
+        "total_ratings_given": 3
+    }],
+    "hotel_reviews_link": "http://burrp.com/bangalore/beijing-bites-richmond-road-listing/reviews/2290",
+    "hotel_id": 2290,
+    "hotel_info": [{
+        "hotel_address": "11/2, ground floor, sigma trident, richmond road, richmond town, bangalore",
+        "hotel_title": "beijing bites,richmond road",
+        "cuisines": ["Chinese"],
+        "hotel_link": "http://burrp.com/bangalore/beijing-bites-richmond-road-listing/2290",
+        "meal_for_2": 400.0
+    }],
+    "hotel_url_title": "beijing-bites-richmond-road-listing"
+}, {
+    "hotel_menu_link": "http://burrp.com/bangalore/the-buffet-carnival-jp-nagar-listing/menu/379829",
+    "rating": [{
+        "total_rating": 5.0,
+        "total_ratings_given": 2
+    }],
+    "hotel_reviews_link": "http://burrp.com/bangalore/the-buffet-carnival-jp-nagar-listing/reviews/379829",
+    "hotel_id": 379829,
+    "hotel_info": [{
+        "hotel_address": "no.949, 24th main, 2nd phase, opposite sbi, jp nagar, bangalore",
+        "hotel_title": "the buffet carnival,jp nagar",
+        "cuisines": ["Indian", "Chinese"],
+        "hotel_link": "http://burrp.com/bangalore/the-buffet-carnival-jp-nagar-listing/379829",
+        "meal_for_2": 800.0
+    }],
+    "hotel_url_title": "the-buffet-carnival-jp-nagar-listing"
+}, {
+    "hotel_menu_link": "http://burrp.com/bangalore/kaayal-brookefield-listing/menu/59565",
+    "rating": [{
+        "total_rating": 2.3,
+        "total_ratings_given": 7
+    }],
+    "hotel_reviews_link": "http://burrp.com/bangalore/kaayal-brookefield-listing/reviews/59565",
+    "hotel_id": 59565,
+    "hotel_info": [{
+        "hotel_address": "601, 2nd floor, 1st main, , c block, aecs layout, kundalahalli, brookefield, bangalore",
+        "hotel_title": "kaayal,brookefield",
+        "cuisines": ["Keralan"],
+        "hotel_link": "http://burrp.com/bangalore/kaayal-brookefield-listing/59565",
+        "meal_for_2": 600.0
+    }],
+    "hotel_url_title": "kaayal-brookefield-listing"
+}, {
+    "hotel_menu_link": "http://burrp.com/bangalore/le-jardin-the-oberoi-mg-road-listing/menu/1827",
+    "rating": [{
+        "total_rating": 3.7,
+        "total_ratings_given": 3
+    }],
+    "hotel_reviews_link": "http://burrp.com/bangalore/le-jardin-the-oberoi-mg-road-listing/reviews/1827",
+    "hotel_id": 1827,
+    "hotel_info": [{
+        "hotel_address": "37-39,  mg road, bangalore",
+        "hotel_title": "le jardin, the oberoi,mg road",
+        "cuisines": ["Continental", "Multi-cuisine", "Indian"],
+        "hotel_link": "http://burrp.com/bangalore/le-jardin-the-oberoi-mg-road-listing/1827",
+        "meal_for_2": 3200.0
+    }],
+    "hotel_url_title": "le-jardin-the-oberoi-mg-road-listing"
+}, {
+    "hotel_menu_link": "http://burrp.com/bangalore/byli-bet-you-love-it-kalyan-nagar-listing/menu/404311",
+    "rating": [{
+        "total_rating": 3.5,
+        "total_ratings_given": 3
+    }],
+    "hotel_reviews_link": "http://burrp.com/bangalore/byli-bet-you-love-it-kalyan-nagar-listing/reviews/404311",
+    "hotel_id": 404311,
+    "hotel_info": [{
+        "hotel_address": "g-01 & 02, 1st avenue, 5th main road, off cmr road, hrbr layout, kalyan nagar,bangalore",
+        "hotel_title": "byli - bet you love it!,kalyan nagar",
+        "cuisines": ["Continental", "European", "Pan-Asian"],
+        "hotel_link": "http://burrp.com/bangalore/byli-bet-you-love-it-kalyan-nagar-listing/404311",
+        "meal_for_2": 500.0
+    }],
+    "hotel_url_title": "byli-bet-you-love-it-kalyan-nagar-listing"
+}, {
+    "hotel_menu_link": "http://burrp.com/bangalore/mane-tindy-malleshwaram-listing/menu/2109",
+    "rating": [{
+        "total_rating": 4.5,
+        "total_ratings_given": 2
+    }],
+    "hotel_reviews_link": "http://burrp.com/bangalore/mane-tindy-malleshwaram-listing/reviews/2109",
+    "hotel_id": 2109,
+    "hotel_info": [{
+        "hotel_address": "6th cross, near sslc board, malleshwaram,",
+        "hotel_title": "mane tindy,malleshwaram",
+        "cuisines": ["Indian"],
+        "hotel_link": "http://burrp.com/bangalore/mane-tindy-malleshwaram-listing/2109",
+        "meal_for_2": null
+    }],
+    "hotel_url_title": "mane-tindy-malleshwaram-listing"
+}, {
+    "hotel_menu_link": "http://burrp.com/bangalore/hotel-emirates-rt-nagar-listing/menu/155025",
+    "rating": [{
+        "total_rating": 2.6,
+        "total_ratings_given": 5
+    }],
+    "hotel_reviews_link": "http://burrp.com/bangalore/hotel-emirates-rt-nagar-listing/reviews/155025",
+    "hotel_id": 155025,
+    "hotel_info": [{
+        "hotel_address": "no. 24, 7th bellary road, international airport road, rt nagar, bangalore",
+        "hotel_title": "hotel emirates,rt nagar",
+        "cuisines": ["Indian", "Tandoori", "Chinese"],
+        "hotel_link": "http://burrp.com/bangalore/hotel-emirates-rt-nagar-listing/155025",
+        "meal_for_2": 400.0
+    }],
+    "hotel_url_title": "hotel-emirates-rt-nagar-listing"
+}, {
+    "hotel_menu_link": "http://burrp.com/bangalore/bobbys-dhaba-ulsoor-listing/menu/362046",
+    "rating": [{
+        "total_rating": 3.3,
+        "total_ratings_given": 3
+    }],
+    "hotel_reviews_link": "http://burrp.com/bangalore/bobbys-dhaba-ulsoor-listing/reviews/362046",
+    "hotel_id": 362046,
+    "hotel_info": [{
+        "hotel_address": "st. john's road, near lavanya theatre, ulsoor, bangalore",
+        "hotel_title": "bobby's dhaba,ulsoor",
+        "cuisines": ["Punjabi"],
+        "hotel_link": "http://burrp.com/bangalore/bobbys-dhaba-ulsoor-listing/362046",
+        "meal_for_2": 250.0
+    }],
+    "hotel_url_title": "bobbys-dhaba-ulsoor-listing"
+}, {
+    "hotel_menu_link": "http://burrp.com/bangalore/the-white-room-high-gates-hotel-church-street-listing/menu/422639",
+    "rating": [{
+        "total_rating": 4.2,
+        "total_ratings_given": 2
+    }],
+    "hotel_reviews_link": "http://burrp.com/bangalore/the-white-room-high-gates-hotel-church-street-listing/reviews/422639",
+    "hotel_id": 422639,
+    "hotel_info": [{
+        "hotel_address": "ground floor,  church street, bangalore",
+        "hotel_title": "the white room, high gates hotel,church street",
+        "cuisines": ["Continental"],
+        "hotel_link": "http://burrp.com/bangalore/the-white-room-high-gates-hotel-church-street-listing/422639",
+        "meal_for_2": 800.0
+    }],
+    "hotel_url_title": "the-white-room-high-gates-hotel-church-street-listing"
+}, {
+    "hotel_menu_link": "http://burrp.com/bangalore/mast-kalandar-hsr-layout-listing/menu/62793",
+    "rating": [{
+        "total_rating": 1.6,
+        "total_ratings_given": 20
+    }],
+    "hotel_reviews_link": "http://burrp.com/bangalore/mast-kalandar-hsr-layout-listing/reviews/62793",
+    "hotel_id": 62793,
+    "hotel_info": [{
+        "hotel_address": "site no. 03, 1st floor, sector 4, opposite jss public school, hsr layout, bangalore",
+        "hotel_title": "mast kalandar,hsr layout",
+        "cuisines": ["North Indian"],
+        "hotel_link": "http://burrp.com/bangalore/mast-kalandar-hsr-layout-listing/62793",
+        "meal_for_2": 250.0
+    }],
+    "hotel_url_title": "mast-kalandar-hsr-layout-listing"
+}, {
+    "hotel_menu_link": "http://burrp.com/bangalore/shree-sagar-jayanagar-listing/menu/2250",
+    "rating": [{
+        "total_rating": 4.0,
+        "total_ratings_given": 2
+    }],
+    "hotel_reviews_link": "http://burrp.com/bangalore/shree-sagar-jayanagar-listing/reviews/2250",
+    "hotel_id": 2250,
+    "hotel_info": [{
+        "hotel_address": "73, 30th cross, 4th block,, near 4th block bus stand,, jayanagar",
+        "hotel_title": "shree sagar,jayanagar",
+        "cuisines": ["Multi-cuisine"],
+        "hotel_link": "http://burrp.com/bangalore/shree-sagar-jayanagar-listing/2250",
+        "meal_for_2": null
+    }],
+    "hotel_url_title": "shree-sagar-jayanagar-listing"
+}, {
+    "hotel_menu_link": "http://burrp.com/bangalore/the-royal-treat-basavanagudi-listing/menu/9111",
+    "rating": [{
+        "total_rating": 4.0,
+        "total_ratings_given": 2
+    }],
+    "hotel_reviews_link": "http://burrp.com/bangalore/the-royal-treat-basavanagudi-listing/reviews/9111",
+    "hotel_id": 9111,
+    "hotel_info": [{
+        "hotel_address": "shop no. 19/2, south end main road, ud residency, basavanagudi, basavanagudi, bangalore",
+        "hotel_title": "the royal treat,basavanagudi",
+        "cuisines": ["North Indian", "South Indian", "Tandoori", "Chinese"],
+        "hotel_link": "http://burrp.com/bangalore/the-royal-treat-basavanagudi-listing/9111",
+        "meal_for_2": 600.0
+    }],
+    "hotel_url_title": "the-royal-treat-basavanagudi-listing"
+}, {
+    "hotel_menu_link": "http://burrp.com/bangalore/the-pongal-hal-listing/menu/2032",
+    "rating": [{
+        "total_rating": 3.0,
+        "total_ratings_given": 3
+    }],
+    "hotel_reviews_link": "http://burrp.com/bangalore/the-pongal-hal-listing/reviews/2032",
+    "hotel_id": 2032,
+    "hotel_info": [{
+        "hotel_address": "474, 3rd stage, jeevan bheemanagar, nr telephone exchange,",
+        "hotel_title": "the pongal,hal",
+        "cuisines": ["South Indian"],
+        "hotel_link": "http://burrp.com/bangalore/the-pongal-hal-listing/2032",
+        "meal_for_2": null
+    }],
+    "hotel_url_title": "the-pongal-hal-listing"
+}, {
+    "hotel_menu_link": "http://burrp.com/bangalore/indian-oven-marathahalli-listing/menu/47510",
+    "rating": [{
+        "total_rating": 2.2,
+        "total_ratings_given": 5
+    }],
+    "hotel_reviews_link": "http://burrp.com/bangalore/indian-oven-marathahalli-listing/reviews/47510",
+    "hotel_id": 47510,
+    "hotel_info": [{
+        "hotel_address": "sammuk hotels pvt ltd.,   , # 77/1, marathahalli outer ring road, bellandur, marathahalli, bangalore",
+        "hotel_title": "indian oven,marathahalli",
+        "cuisines": ["Indian"],
+        "hotel_link": "http://burrp.com/bangalore/indian-oven-marathahalli-listing/47510",
+        "meal_for_2": null
+    }],
+    "hotel_url_title": "indian-oven-marathahalli-listing"
+}, {
+    "hotel_menu_link": "http://burrp.com/bangalore/my-bar-koramangala-listing/menu/400323",
+    "rating": [{
+        "total_rating": 3.5,
+        "total_ratings_given": 2
+    }],
+    "hotel_reviews_link": "http://burrp.com/bangalore/my-bar-koramangala-listing/reviews/400323",
+    "hotel_id": 400323,
+    "hotel_info": [{
+        "hotel_address": "5th cross,jyoti niwas college , sukh sagar road, koramangala,bangalore",
+        "hotel_title": "my bar,koramangala",
+        "cuisines": ["Multi-cuisine"],
+        "hotel_link": "http://burrp.com/bangalore/my-bar-koramangala-listing/400323",
+        "meal_for_2": 1000.0
+    }],
+    "hotel_url_title": "my-bar-koramangala-listing"
+}, {
+    "hotel_menu_link": "http://burrp.com/bangalore/the-garage-cafe-bannerghatta-main-road-listing/menu/358748",
+    "rating": [{
+        "total_rating": 3.5,
+        "total_ratings_given": 2
+    }],
+    "hotel_reviews_link": "http://burrp.com/bangalore/the-garage-cafe-bannerghatta-main-road-listing/reviews/358748",
+    "hotel_id": 358748,
+    "hotel_info": [{
+        "hotel_address": "a1, 44/2, bannerghatta main road, bangalore",
+        "hotel_title": "the garage cafe,bannerghatta main road",
+        "cuisines": ["American", "Fastfood", "Italian", "Biryani"],
+        "hotel_link": "http://burrp.com/bangalore/the-garage-cafe-bannerghatta-main-road-listing/358748",
+        "meal_for_2": 400.0
+    }],
+    "hotel_url_title": "the-garage-cafe-bannerghatta-main-road-listing"
+}, {
+    "hotel_menu_link": "http://burrp.com/bangalore/farrago-cunningham-road-listing/menu/154507",
+    "rating": [{
+        "total_rating": 3.5,
+        "total_ratings_given": 2
+    }],
+    "hotel_reviews_link": "http://burrp.com/bangalore/farrago-cunningham-road-listing/reviews/154507",
+    "hotel_id": 154507,
+    "hotel_info": [{
+        "hotel_address": "no. 18/2, ground floor ali, asker road , cunningham road, bangalore",
+        "hotel_title": "farrago,cunningham road",
+        "cuisines": ["Fusion", "Multi-cuisine"],
+        "hotel_link": "http://burrp.com/bangalore/farrago-cunningham-road-listing/154507",
+        "meal_for_2": 500.0
+    }],
+    "hotel_url_title": "farrago-cunningham-road-listing"
+}, {
+    "hotel_menu_link": "http://burrp.com/bangalore/kadamba-veg-basaveshwara-nagar-listing/menu/4829",
+    "rating": [{
+        "total_rating": 2.7,
+        "total_ratings_given": 3
+    }],
+    "hotel_reviews_link": "http://burrp.com/bangalore/kadamba-veg-basaveshwara-nagar-listing/reviews/4829",
+    "hotel_id": 4829,
+    "hotel_info": [{
+        "hotel_address": "modi hospital road, basaveshwara nagar, bangalore",
+        "hotel_title": "kadamba veg,basaveshwara nagar",
+        "cuisines": ["Karnataka", "North Indian", "South Indian", "Juice", "Tea and Coffee", "Indian"],
+        "hotel_link": "http://burrp.com/bangalore/kadamba-veg-basaveshwara-nagar-listing/4829",
+        "meal_for_2": 200.0
+    }],
+    "hotel_url_title": "kadamba-veg-basaveshwara-nagar-listing"
+}, {
+    "hotel_menu_link": "http://burrp.com/bangalore/fiat-caffe-domlur-listing/menu/404310",
+    "rating": [{
+        "total_rating": 5.0,
+        "total_ratings_given": 1
+    }],
+    "hotel_reviews_link": "http://burrp.com/bangalore/fiat-caffe-domlur-listing/reviews/404310",
+    "hotel_id": 404310,
+    "hotel_info": [{
+        "hotel_address": "no. 92/93, amar jyothi layout, koramangala intermediate ring road, domlur,bangalore",
+        "hotel_title": "fiat caffe,domlur",
+        "cuisines": ["Italian"],
+        "hotel_link": "http://burrp.com/bangalore/fiat-caffe-domlur-listing/404310",
+        "meal_for_2": 1000.0
+    }],
+    "hotel_url_title": "fiat-caffe-domlur-listing"
+}, {
+    "hotel_menu_link": "http://burrp.com/bangalore/oakleaf-restaurant-whitefield-listing/menu/390080",
+    "rating": [{
+        "total_rating": 5.0,
+        "total_ratings_given": 1
+    }],
+    "hotel_reviews_link": "http://burrp.com/bangalore/oakleaf-restaurant-whitefield-listing/reviews/390080",
+    "hotel_id": 390080,
+    "hotel_info": [{
+        "hotel_address": "oakwood residence prestige whitefield bangalore, 9th floor,  whitefield, bangalore",
+        "hotel_title": "oakleaf restaurant,whitefield",
+        "cuisines": ["Continental", "Indian", "Tandoori", "Chinese"],
+        "hotel_link": "http://burrp.com/bangalore/oakleaf-restaurant-whitefield-listing/390080",
+        "meal_for_2": 2000.0
+    }],
+    "hotel_url_title": "oakleaf-restaurant-whitefield-listing"
+}, {
+    "hotel_menu_link": "http://burrp.com/bangalore/curry-nation-koramangala-listing/menu/343665",
+    "rating": [{
+        "total_rating": 5.0,
+        "total_ratings_given": 1
+    }],
+    "hotel_reviews_link": "http://burrp.com/bangalore/curry-nation-koramangala-listing/reviews/343665",
+    "hotel_id": 343665,
+    "hotel_info": [{
+        "hotel_address": "52/b, 100 feet road, 4th block,  koramangala, bangalore",
+        "hotel_title": "curry nation,koramangala",
+        "cuisines": ["Indian", "Pan-Asian"],
+        "hotel_link": "http://burrp.com/bangalore/curry-nation-koramangala-listing/343665",
+        "meal_for_2": 1000.0
+    }],
+    "hotel_url_title": "curry-nation-koramangala-listing"
+}, {
+    "hotel_menu_link": "http://burrp.com/bangalore/not-just-desserts-hsr-layout-listing/menu/406725",
+    "rating": [{
+        "total_rating": 5.0,
+        "total_ratings_given": 1
+    }],
+    "hotel_reviews_link": "http://burrp.com/bangalore/not-just-desserts-hsr-layout-listing/reviews/406725",
+    "hotel_id": 406725,
+    "hotel_info": [{
+        "hotel_address": "1188, hnr tower, 24th main, 2nd sector, pharangi palya, hsr layout,bangalore",
+        "hotel_title": "not just desserts,hsr layout",
+        "cuisines": ["North Indian"],
+        "hotel_link": "http://burrp.com/bangalore/not-just-desserts-hsr-layout-listing/406725",
+        "meal_for_2": 350.0
+    }],
+    "hotel_url_title": "not-just-desserts-hsr-layout-listing"
+}, {
+    "hotel_menu_link": "http://burrp.com/bangalore/geeta-food-inns-jp-nagar-listing/menu/63621",
+    "rating": [{
+        "total_rating": 3.0,
+        "total_ratings_given": 2
+    }],
+    "hotel_reviews_link": "http://burrp.com/bangalore/geeta-food-inns-jp-nagar-listing/reviews/63621",
+    "hotel_id": 63621,
+    "hotel_info": [{
+        "hotel_address": "no.9, 23rd main road, opp adigas cooking section, marenahalli, 2nd phase, jp nagar, bangalore",
+        "hotel_title": "geeta food inns,jp nagar",
+        "cuisines": ["Andhra"],
+        "hotel_link": "http://burrp.com/bangalore/geeta-food-inns-jp-nagar-listing/63621",
+        "meal_for_2": 300.0
+    }],
+    "hotel_url_title": "geeta-food-inns-jp-nagar-listing"
+}, {
+    "hotel_menu_link": "http://burrp.com/bangalore/ugadi-jayanagar-listing/menu/384202",
+    "rating": [{
+        "total_rating": 2.3,
+        "total_ratings_given": 3
+    }],
+    "hotel_reviews_link": "http://burrp.com/bangalore/ugadi-jayanagar-listing/reviews/384202",
+    "hotel_id": 384202,
+    "hotel_info": [{
+        "hotel_address": "609, 10th a main, 4th block, jayanagar, bangalore",
+        "hotel_title": "ugadi,jayanagar",
+        "cuisines": ["Biryani", "Indian", "Andhra"],
+        "hotel_link": "http://burrp.com/bangalore/ugadi-jayanagar-listing/384202",
+        "meal_for_2": 300.0
+    }],
+    "hotel_url_title": "ugadi-jayanagar-listing"
+}, {
+    "hotel_menu_link": "http://burrp.com/bangalore/citrus-cafe-lemon-tree-premier-ulsoor-listing/menu/359120",
+    "rating": [{
+        "total_rating": 2.2,
+        "total_ratings_given": 3
+    }],
+    "hotel_reviews_link": "http://burrp.com/bangalore/citrus-cafe-lemon-tree-premier-ulsoor-listing/reviews/359120",
+    "hotel_id": 359120,
+    "hotel_info": [{
+        "hotel_address": "ground floor,  ulsoor, bangalore",
+        "hotel_title": "citrus cafe, lemon tree premier,ulsoor",
+        "cuisines": ["Multi-cuisine"],
+        "hotel_link": "http://burrp.com/bangalore/citrus-cafe-lemon-tree-premier-ulsoor-listing/359120",
+        "meal_for_2": 3000.0
+    }],
+    "hotel_url_title": "citrus-cafe-lemon-tree-premier-ulsoor-listing"
+}, {
+    "hotel_menu_link": "http://burrp.com/bangalore/hoppipola-church-street-listing/menu/404558",
+    "rating": [{
+        "total_rating": 4.0,
+        "total_ratings_given": 1
+    }],
+    "hotel_reviews_link": "http://burrp.com/bangalore/hoppipola-church-street-listing/reviews/404558",
+    "hotel_id": 404558,
+    "hotel_info": [{
+        "hotel_address": "3rd floor, no. 14,  church street,bangalore",
+        "hotel_title": "hoppipola,church street",
+        "cuisines": ["Continental", "Mediterranean"],
+        "hotel_link": "http://burrp.com/bangalore/hoppipola-church-street-listing/404558",
+        "meal_for_2": 1200.0
+    }],
+    "hotel_url_title": "hoppipola-church-street-listing"
+}]
